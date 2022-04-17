@@ -1,0 +1,14 @@
+logFilePath: D:\inepp-logs\
+
+
+logging:
+  file:
+    path: ${logFilePath}
+  level:
+    com.inepp: debug
+spring:
+  jackson:
+    date-format: yyyy-MM-dd
+    time-zone: GMT+8
+
+

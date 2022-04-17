@@ -1,0 +1,5 @@
+server:
+  port: 9054
+spring:
+  profiles:
+    active: domain

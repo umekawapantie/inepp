@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: common,domain
+
+#server:
+#  port: 9091
